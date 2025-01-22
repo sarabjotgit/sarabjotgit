@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.upwork.com/freelancers/~01284c09c53712e95d?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~01284c09c53712e95d%2Fprofile]" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRxx4Q1Ez4mYSgyeficw6D3XTJ-q_VBi60WauCd7_fNFx_WGXnRG-pOeo2AViX49yYEcc&usqp=CAU" alt="vivekahuja" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01284c09c53712e95d?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~01284c09c53712e95d%2Fprofile" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRxx4Q1Ez4mYSgyeficw6D3XTJ-q_VBi60WauCd7_fNFx_WGXnRG-pOeo2AViX49yYEcc&usqp=CAU" alt="vivekahuja" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sunny-codewebster/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekahuja" height="30" width="40" /></a>
 </p>
 
