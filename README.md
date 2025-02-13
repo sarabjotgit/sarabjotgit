@@ -26,7 +26,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **more on swiftUI and kotlin compose**
 
-- 💬 Ask me about *React, Next.js , React Native , Node.js , Python , GitHub , MongoDB , Docker , Kubernetes , Firebase & Terraform*
+- 💬 Ask me about 
+𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: React, Tailwind CSS, React Native, Next.js
+𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Node.js (Express.js), Python (Django, Flask, FastAPI)
+𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐀𝐏𝐈𝐬: Websockets, REST, GraphQL, OAuth, Auth0, Stripe, PayPal, SendGrid, Socket.io, etc.
+𝐂𝐈/𝐂𝐃 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬: GitHub Actions, Jenkins, GitLab CI for automated deployments
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐒𝐭𝐨𝐫𝐚𝐠𝐞: Redis, Memcached, MongoDB, PostgreSQL, MySQL, Amazon S3, MinIO
+𝐃𝐞𝐯𝐎𝐩𝐬 & 𝐂𝐥𝐨𝐮𝐝: Docker, Kubernetes, AWS (Lambda, S3), Firebase, Google Cloud, Terraform, Microsoft Azure
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
