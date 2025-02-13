@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **more on swiftUI and kotlin compose**
 
-- 💬 Ask me about *Android, Java , Kotlin , Swift , React JS , React Native , UI/UX design , C , C++ , Firebase & GitHub*
-
-- 📫 How to reach me ** sarabjots291@gmail.com**
+- 💬 Ask me about *React, Next.js , React Native , Node.js , Python , GitHub , MongoDB , Docker , Kubernetes , Firebase & Terraform*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
