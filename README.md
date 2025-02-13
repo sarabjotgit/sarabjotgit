@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarabjotgit/
 
-- 🌱 I’m currently learning **more on swiftUI and kotlin compose**
+- 🌱 I'm currently enhancing my expertise in mobile app development, focusing on the latest technologies.
 
 - 💬 Ask me about 
 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: React, Tailwind CSS, React Native, Next.js
